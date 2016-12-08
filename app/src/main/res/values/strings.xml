@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rock Paper Lizard Scissor Spock</string>
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="scissor">Scissor</string>
+    <string name="lizard">Lizard</string>
+    <string name="spock">Spock</string>
+    <string name="todo">HELP! WHAT DO I DO?</string>
+</resources>
